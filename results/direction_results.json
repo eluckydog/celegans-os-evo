@@ -1,0 +1,168 @@
+[
+  {
+    "direction": "10_evo_dev_link",
+    "label": "发育速率与命运判定耦合",
+    "time_s": 11.9,
+    "final_best": 1.4319,
+    "final_avg": 1.1277,
+    "final_fates": "VU/AC",
+    "best_params": {
+      "lin12_expr_rate": 1.115,
+      "notch_threshold": 0.178,
+      "fork_rate": 0.148,
+      "fork_accuracy": 0.779,
+      "timer_speed": 1.193,
+      "memory_stability": 0.064
+    },
+    "real_data_hit": false
+  },
+  {
+    "direction": "1_vu_notch_lock",
+    "label": "VU通过Notch锁定命运",
+    "time_s": 11.5,
+    "final_best": 1.425,
+    "final_avg": 1.0542,
+    "final_fates": "VU/AC",
+    "best_params": {
+      "lag2_expr_rate": 0.763,
+      "notch_threshold": 6.659,
+      "fork_rate": 0.01,
+      "fork_accuracy": 2.785,
+      "timer_speed": 0.01,
+      "memory_stability": 0.439
+    },
+    "real_data_hit": true
+  },
+  {
+    "direction": "2_lf_lin12_compensation",
+    "label": "lin-12功能丧失的演化补偿",
+    "time_s": 11.8,
+    "final_best": 1.4285,
+    "final_avg": 1.0609,
+    "final_fates": "VU/AC",
+    "best_params": {
+      "notch_threshold": 10.0,
+      "fork_rate": 0.381,
+      "fork_accuracy": 0.012,
+      "timer_speed": 0.01,
+      "memory_stability": 0.024
+    },
+    "real_data_hit": true
+  },
+  {
+    "direction": "3_lf_lag2_compensation",
+    "label": "lag-2功能丧失的演化补偿",
+    "time_s": 11.1,
+    "final_best": 1.4374,
+    "final_avg": 1.0013,
+    "final_fates": "AC/VU",
+    "best_params": {
+      "lag2_expr_rate": 1.105,
+      "notch_threshold": 0.056,
+      "fork_accuracy": 0.367,
+      "timer_speed": 4.893,
+      "memory_stability": 0.098
+    },
+    "real_data_hit": true
+  },
+  {
+    "direction": "4_gf_lin12_escape",
+    "label": "lin-12过度活跃时的演化逃逸",
+    "time_s": 15.0,
+    "final_best": 1.4144,
+    "final_avg": 1.0511,
+    "final_fates": "VU/AC",
+    "best_params": {
+      "lag2_expr_rate": 0.766,
+      "notch_threshold": 0.989,
+      "fork_rate": 0.143,
+      "fork_accuracy": 3.107,
+      "timer_speed": 1.354,
+      "memory_stability": 1.02
+    },
+    "real_data_hit": false
+  },
+  {
+    "direction": "5_env_noise_resistance",
+    "label": "环境噪声(温度波动)鲁棒性",
+    "time_s": 22.5,
+    "final_best": 1.22,
+    "final_avg": 1.0352,
+    "final_fates": "VU/AC",
+    "best_params": {
+      "notch_threshold": 5.685,
+      "fork_rate": 2.295,
+      "fork_accuracy": 0.113,
+      "timer_speed": 0.059,
+      "memory_stability": 0.05
+    },
+    "real_data_hit": true
+  },
+  {
+    "direction": "6_symmetric_self",
+    "label": "两个相同细胞能否自我不对称",
+    "time_s": 14.1,
+    "final_best": 1.4385,
+    "final_avg": 1.1415,
+    "final_fates": "VU/AC",
+    "best_params": {
+      "lin12_expr_rate": 1.106,
+      "notch_threshold": 0.07,
+      "fork_rate": 2.838,
+      "fork_accuracy": 2.783,
+      "memory_stability": 0.071
+    },
+    "real_data_hit": true
+  },
+  {
+    "direction": "7_speed_vs_reliability",
+    "label": "快速决定 vs 可靠决定",
+    "time_s": 14.0,
+    "final_best": 2.0,
+    "final_avg": 1.2063,
+    "final_fates": "VU/AC",
+    "best_params": {
+      "lin12_expr_rate": 1.124,
+      "notch_sensitivity": 1.276,
+      "notch_threshold": 0.366,
+      "fork_rate": 3.245,
+      "fork_accuracy": 8.859,
+      "timer_speed": 0.071,
+      "memory_stability": 0.1
+    },
+    "real_data_hit": false
+  },
+  {
+    "direction": "8_memory_persistence",
+    "label": "命运决定后的记忆持久性",
+    "time_s": 11.1,
+    "final_best": 1.4434,
+    "final_avg": 1.1224,
+    "final_fates": "VU/AC",
+    "best_params": {
+      "notch_threshold": 0.078,
+      "fork_rate": 0.01,
+      "fork_accuracy": 0.222,
+      "timer_speed": 8.313,
+      "memory_stability": 0.102
+    },
+    "real_data_hit": false
+  },
+  {
+    "direction": "9_double_knockout",
+    "label": "双重击打: lin-12+lag-2同时丧失",
+    "time_s": 11.9,
+    "final_best": 1.4304,
+    "final_avg": 1.0553,
+    "final_fates": "AC/VU",
+    "best_params": {
+      "lin12_expr_rate": 0.89,
+      "notch_threshold": 0.237,
+      "fork_rate": 10.0,
+      "fork_accuracy": 0.374,
+      "timer_speed": 0.331,
+      "memory_stability": 0.739
+    },
+    "real_data_hit": false
+  }
+]

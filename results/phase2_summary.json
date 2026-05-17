@@ -1,0 +1,525 @@
+[
+  {
+    "direction": "D1_double_ko",
+    "label": "双敲除的1,000代补偿追踪",
+    "time_s": 52.9,
+    "generations": 500,
+    "final_best": 1.4147,
+    "final_avg": 1.0297,
+    "best_params": {
+      "lag2_expr_rate": -0.0742,
+      "notch_sensitivity": 0.1289,
+      "lateral_inhibition_strength": -0.2073,
+      "fork_rate": -0.9861,
+      "fork_accuracy": -0.98,
+      "timer_speed": -0.9598,
+      "memory_stability": -0.8877
+    },
+    "n_breakpoints": 8,
+    "breakpoints": [
+      {
+        "gen_after": 16,
+        "gen_before": 15,
+        "delta_best": 0.7618,
+        "delta_avg": 0.0152,
+        "before_best_params": {
+          "lin12_expr_rate": -0.99,
+          "lag2_expr_rate": -0.99,
+          "notch_sensitivity": -0.107,
+          "notch_threshold": 0.0511,
+          "lateral_inhibition_strength": -0.0527
+        },
+        "after_best_params": {
+          "lin12_expr_rate": -0.99,
+          "lag2_expr_rate": -0.99,
+          "notch_threshold": -0.0698,
+          "lateral_inhibition_strength": -0.8981,
+          "fork_rate": 0.3909,
+          "fork_accuracy": 0.8158,
+          "timer_speed": -0.2152,
+          "memory_stability": 0.2581
+        }
+      },
+      {
+        "gen_after": 18,
+        "gen_before": 17,
+        "delta_best": 0.2297,
+        "delta_avg": 0.0296,
+        "before_best_params": {
+          "lin12_expr_rate": -0.99,
+          "lag2_expr_rate": -0.9891,
+          "notch_threshold": 0.0585,
+          "lateral_inhibition_strength": -0.1009,
+          "fork_accuracy": -0.1224,
+          "memory_stability": -0.1301
+        },
+        "after_best_params": {
+          "lin12_expr_rate": -0.99,
+          "lag2_expr_rate": -0.9736,
+          "notch_sensitivity": -0.0812,
+          "notch_threshold": 0.0742,
+          "lateral_inhibition_strength": 0.1454,
+          "fork_rate": -0.1945,
+          "fork_accuracy": 0.0933,
+          "timer_speed": -0.1215
+        }
+      },
+      {
+        "gen_after": 19,
+        "gen_before": 18,
+        "delta_best": 0.0018,
+        "delta_avg": 0.212,
+        "before_best_params": {
+          "lin12_expr_rate": -0.99,
+          "lag2_expr_rate": -0.9736,
+          "notch_sensitivity": -0.0812,
+          "notch_threshold": 0.0742,
+          "lateral_inhibition_strength": 0.1454,
+          "fork_rate": -0.1945,
+          "fork_accuracy": 0.0933,
+          "timer_speed": -0.1215
+        },
+        "after_best_params": {
+          "lin12_expr_rate": -0.99,
+          "lag2_expr_rate": -0.99,
+          "fork_rate": -0.0986,
+          "timer_speed": -0.1765,
+          "memory_stability": 1.0234
+        }
+      },
+      {
+        "gen_after": 20,
+        "gen_before": 19,
+        "delta_best": 0.0215,
+        "delta_avg": 0.1933,
+        "before_best_params": {
+          "lin12_expr_rate": -0.99,
+          "lag2_expr_rate": -0.99,
+          "fork_rate": -0.0986,
+          "timer_speed": -0.1765,
+          "memory_stability": 1.0234
+        },
+        "after_best_params": {
+          "lin12_expr_rate": -0.99,
+          "lag2_expr_rate": -0.9736,
+          "notch_sensitivity": -0.0812,
+          "notch_threshold": 0.0742,
+          "lateral_inhibition_strength": 0.1454,
+          "fork_rate": -0.1372,
+          "fork_accuracy": 0.0933,
+          "timer_speed": -0.1215
+        }
+      },
+      {
+        "gen_after": 24,
+        "gen_before": 23,
+        "delta_best": 0.0449,
+        "delta_avg": 0.1394,
+        "before_best_params": {
+          "lin12_expr_rate": -0.97,
+          "lag2_expr_rate": -0.99,
+          "notch_sensitivity": -0.107,
+          "notch_threshold": 0.1083,
+          "lateral_inhibition_strength": -0.0694,
+          "fork_rate": -0.0771,
+          "timer_speed": -0.1692,
+          "memory_stability": 0.2839
+        },
+        "after_best_params": {
+          "lin12_expr_rate": -0.97,
+          "lag2_expr_rate": -0.8222,
+          "notch_threshold": 0.1654,
+          "lateral_inhibition_strength": -0.2739,
+          "fork_accuracy": -0.0898,
+          "timer_speed": 0.0505,
+          "memory_stability": 1.8803
+        }
+      }
+    ]
+  },
+  {
+    "direction": "D2_two_pop_coevolve",
+    "label": "两个子代共同演化(分工)",
+    "time_s": 50.8,
+    "generations": 500,
+    "final_best": 1.4322,
+    "final_avg": 1.1467,
+    "best_params": {
+      "lin12_expr_rate": -0.1098,
+      "lag2_expr_rate": 0.0809,
+      "notch_threshold": -0.49,
+      "fork_rate": -0.2051,
+      "fork_accuracy": -0.973,
+      "timer_speed": -0.99,
+      "memory_stability": 2.4503
+    },
+    "n_breakpoints": 5,
+    "breakpoints": [
+      {
+        "gen_after": 3,
+        "gen_before": 2,
+        "delta_best": 0.1995,
+        "delta_avg": 0.0143,
+        "before_best_params": {
+          "lag2_expr_rate": -0.1319,
+          "fork_rate": 0.1046,
+          "timer_speed": -0.0579
+        },
+        "after_best_params": {
+          "lag2_expr_rate": -0.0559,
+          "notch_sensitivity": 0.1469,
+          "notch_threshold": -0.0511,
+          "timer_speed": -0.0854,
+          "memory_stability": 0.1019
+        }
+      },
+      {
+        "gen_after": 5,
+        "gen_before": 4,
+        "delta_best": 0.2118,
+        "delta_avg": 0.0312,
+        "before_best_params": {
+          "lin12_expr_rate": -0.1635,
+          "fork_accuracy": 0.1162,
+          "memory_stability": -0.1405
+        },
+        "after_best_params": {
+          "lin12_expr_rate": 0.1343,
+          "lag2_expr_rate": -0.896,
+          "notch_sensitivity": -0.1128,
+          "notch_threshold": 0.173,
+          "fork_rate": 0.0861,
+          "timer_speed": -0.0579,
+          "memory_stability": 0.1129
+        }
+      },
+      {
+        "gen_after": 7,
+        "gen_before": 6,
+        "delta_best": 0.2563,
+        "delta_avg": 0.0708,
+        "before_best_params": {
+          "lin12_expr_rate": 0.0663,
+          "lag2_expr_rate": -0.1316,
+          "notch_sensitivity": -0.191,
+          "fork_accuracy": 2.2565,
+          "timer_speed": -0.901,
+          "memory_stability": 1.9405
+        },
+        "after_best_params": {
+          "lin12_expr_rate": 0.1343,
+          "lag2_expr_rate": 0.072,
+          "fork_rate": 0.1046,
+          "memory_stability": -0.1837
+        }
+      },
+      {
+        "gen_after": 197,
+        "gen_before": 196,
+        "delta_best": 0.0729,
+        "delta_avg": 0.0816,
+        "before_best_params": {
+          "lin12_expr_rate": -0.0637,
+          "notch_sensitivity": -0.9856,
+          "notch_threshold": -0.4877,
+          "fork_rate": -0.0553,
+          "fork_accuracy": -0.9407,
+          "timer_speed": -0.866,
+          "memory_stability": -0.5839
+        },
+        "after_best_params": {
+          "notch_sensitivity": -0.1502,
+          "notch_threshold": -0.49,
+          "fork_accuracy": -0.9487,
+          "timer_speed": -0.99,
+          "memory_stability": -0.7819
+        }
+      },
+      {
+        "gen_after": 443,
+        "gen_before": 442,
+        "delta_best": 0.0507,
+        "delta_avg": 0.1224,
+        "before_best_params": {
+          "lin12_expr_rate": -0.5038,
+          "lag2_expr_rate": 0.0677,
+          "notch_sensitivity": -0.1172,
+          "notch_threshold": -0.4678,
+          "fork_rate": 6.4357,
+          "fork_accuracy": -0.9768,
+          "timer_speed": -0.9871,
+          "memory_stability": 0.1941
+        },
+        "after_best_params": {
+          "lin12_expr_rate": 0.0589,
+          "notch_sensitivity": 0.1847,
+          "notch_threshold": -0.49,
+          "fork_rate": 9.0,
+          "fork_accuracy": -0.9766,
+          "timer_speed": -0.99,
+          "memory_stability": 1.9471
+        }
+      }
+    ]
+  },
+  {
+    "direction": "D3_env_oscillation",
+    "label": "环境振荡: 噪声低→高→低→高",
+    "time_s": 29.6,
+    "generations": 300,
+    "final_best": 1.4354,
+    "final_avg": 1.1159,
+    "best_params": {
+      "lag2_expr_rate": 0.0602,
+      "notch_threshold": -0.4741,
+      "lateral_inhibition_strength": -0.0618,
+      "fork_rate": 0.9154,
+      "fork_accuracy": -0.7232,
+      "timer_speed": -0.962,
+      "memory_stability": -0.8675
+    },
+    "n_breakpoints": 4,
+    "breakpoints": [
+      {
+        "gen_after": 1,
+        "gen_before": 0,
+        "delta_best": 0.2282,
+        "delta_avg": 0.0336,
+        "before_best_params": {
+          "lag2_expr_rate": 0.1156,
+          "notch_sensitivity": -0.0883,
+          "notch_threshold": 0.0643,
+          "fork_rate": 0.0558,
+          "fork_accuracy": 0.0674,
+          "memory_stability": 0.1202
+        },
+        "after_best_params": {
+          "lateral_inhibition_strength": 0.089
+        }
+      },
+      {
+        "gen_after": 3,
+        "gen_before": 2,
+        "delta_best": 0.0942,
+        "delta_avg": 0.0622,
+        "before_best_params": {
+          "lin12_expr_rate": -0.9024,
+          "fork_rate": -0.0968,
+          "fork_accuracy": 0.2502,
+          "timer_speed": 0.4006,
+          "memory_stability": -0.0787
+        },
+        "after_best_params": {
+          "notch_threshold": -0.0767,
+          "timer_speed": -0.123,
+          "memory_stability": -0.0651
+        }
+      },
+      {
+        "gen_after": 5,
+        "gen_before": 4,
+        "delta_best": 0.2515,
+        "delta_avg": 0.005,
+        "before_best_params": {
+          "notch_threshold": 0.0777,
+          "fork_rate": -0.1637,
+          "fork_accuracy": -0.1369,
+          "timer_speed": 0.1144,
+          "memory_stability": 0.0679
+        },
+        "after_best_params": {
+          "notch_threshold": -0.0837,
+          "timer_speed": -0.123,
+          "memory_stability": -0.0651
+        }
+      },
+      {
+        "gen_after": 273,
+        "gen_before": 272,
+        "delta_best": 0.0631,
+        "delta_avg": 0.131,
+        "before_best_params": {
+          "lin12_expr_rate": 0.094,
+          "lag2_expr_rate": 0.0699,
+          "notch_sensitivity": -0.9886,
+          "notch_threshold": -0.49,
+          "fork_rate": -0.371,
+          "fork_accuracy": -0.8846,
+          "timer_speed": -0.9681,
+          "memory_stability": -0.6979
+        },
+        "after_best_params": {
+          "lin12_expr_rate": -0.0825,
+          "lag2_expr_rate": 0.0926,
+          "notch_threshold": -0.4882,
+          "lateral_inhibition_strength": 0.1611,
+          "fork_rate": -0.8227,
+          "fork_accuracy": -0.8031,
+          "timer_speed": -0.9682,
+          "memory_stability": -0.8847
+        }
+      }
+    ]
+  },
+  {
+    "direction": "D4_noise_threshold_mutation",
+    "label": "突变率敏感性扫描",
+    "time_s": 49.8,
+    "generations": 500,
+    "final_best": 1.4482,
+    "final_avg": 1.1464,
+    "best_params": {
+      "notch_threshold": -0.3863,
+      "fork_rate": -0.2591,
+      "fork_accuracy": -0.98,
+      "timer_speed": -0.9876,
+      "memory_stability": -0.6256
+    },
+    "n_breakpoints": 4,
+    "breakpoints": [
+      {
+        "gen_after": 1,
+        "gen_before": 0,
+        "delta_best": 0.1536,
+        "delta_avg": 0.0071,
+        "before_best_params": {
+          "lin12_expr_rate": 0.1076,
+          "notch_sensitivity": 0.1408,
+          "notch_threshold": -0.0718,
+          "memory_stability": -0.0509
+        },
+        "after_best_params": {
+          "lin12_expr_rate": -0.0634,
+          "notch_sensitivity": -0.909,
+          "notch_threshold": 0.0592,
+          "fork_rate": -0.1573,
+          "timer_speed": 0.1284
+        }
+      },
+      {
+        "gen_after": 6,
+        "gen_before": 5,
+        "delta_best": 0.13,
+        "delta_avg": -0.0002,
+        "before_best_params": {
+          "fork_rate": -0.1898,
+          "fork_accuracy": -0.0536,
+          "timer_speed": 0.2687,
+          "memory_stability": 0.0502
+        },
+        "after_best_params": {
+          "lin12_expr_rate": -0.9108,
+          "lag2_expr_rate": 0.0547,
+          "notch_sensitivity": -0.1252,
+          "notch_threshold": 0.0832,
+          "fork_rate": -0.1827,
+          "fork_accuracy": -0.0886,
+          "memory_stability": -0.0776
+        }
+      },
+      {
+        "gen_after": 128,
+        "gen_before": 127,
+        "delta_best": 0.1414,
+        "delta_avg": 0.1055,
+        "before_best_params": {
+          "lin12_expr_rate": -0.8996,
+          "lag2_expr_rate": 0.0692,
+          "notch_sensitivity": -0.8971,
+          "notch_threshold": 1.3129,
+          "fork_rate": 5.9442,
+          "fork_accuracy": -0.679,
+          "memory_stability": 1.6139
+        },
+        "after_best_params": {
+          "lag2_expr_rate": 0.0692,
+          "notch_threshold": 0.9173,
+          "fork_rate": 8.6029,
+          "fork_accuracy": -0.2456,
+          "timer_speed": 0.0667,
+          "memory_stability": 1.6139
+        }
+      },
+      {
+        "gen_after": 159,
+        "gen_before": 158,
+        "delta_best": 0.1361,
+        "delta_avg": 0.0298,
+        "before_best_params": {
+          "lin12_expr_rate": -0.9286,
+          "notch_sensitivity": -0.9031,
+          "notch_threshold": 0.9597,
+          "lateral_inhibition_strength": 0.1242,
+          "fork_rate": 6.2286,
+          "fork_accuracy": -0.8308,
+          "timer_speed": -0.9097,
+          "memory_stability": 9.1
+        },
+        "after_best_params": {
+          "notch_sensitivity": -0.15,
+          "notch_threshold": 1.0512,
+          "lateral_inhibition_strength": -0.0815,
+          "fork_rate": 9.0,
+          "fork_accuracy": -0.0644,
+          "timer_speed": -0.0975,
+          "memory_stability": 2.182
+        }
+      }
+    ]
+  },
+  {
+    "direction": "D5_three_cell_competition",
+    "label": "三细胞竞争",
+    "time_s": 48.7,
+    "generations": 500,
+    "final_best": 1.4378,
+    "final_avg": 1.0634,
+    "best_params": {
+      "notch_threshold": -0.2966,
+      "lateral_inhibition_strength": 0.0757,
+      "fork_rate": -0.9602,
+      "fork_accuracy": -0.9602,
+      "timer_speed": -0.9885,
+      "memory_stability": -0.2183
+    },
+    "n_breakpoints": 2,
+    "breakpoints": [
+      {
+        "gen_after": 1,
+        "gen_before": 0,
+        "delta_best": 0.1471,
+        "delta_avg": 0.0111,
+        "before_best_params": {
+          "notch_threshold": 0.0678,
+          "fork_accuracy": 0.0805,
+          "memory_stability": 0.2669
+        },
+        "after_best_params": {
+          "lin12_expr_rate": -0.1871,
+          "lag2_expr_rate": -0.0563,
+          "notch_threshold": 0.1117,
+          "lateral_inhibition_strength": 0.0825,
+          "timer_speed": 0.1515
+        }
+      },
+      {
+        "gen_after": 2,
+        "gen_before": 1,
+        "delta_best": 0.2719,
+        "delta_avg": 0.0314,
+        "before_best_params": {
+          "lin12_expr_rate": -0.1871,
+          "lag2_expr_rate": -0.0563,
+          "notch_threshold": 0.1117,
+          "lateral_inhibition_strength": 0.0825,
+          "timer_speed": 0.1515
+        },
+        "after_best_params": {
+          "lag2_expr_rate": -0.9043,
+          "lateral_inhibition_strength": 0.0501,
+          "timer_speed": -0.1653
+        }
+      }
+    ]
+  }
+]

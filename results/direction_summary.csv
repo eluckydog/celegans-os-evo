@@ -1,0 +1,11 @@
+direction,label,time_s,final_best,final_avg,final_fates,best_params,real_data_hit
+10_evo_dev_link,发育速率与命运判定耦合,11.9,1.4319,1.1277,VU/AC,"{'lin12_expr_rate': 1.115, 'notch_threshold': 0.178, 'fork_rate': 0.148, 'fork_accuracy': 0.779, 'timer_speed': 1.193, 'memory_stability': 0.064}",False
+1_vu_notch_lock,VU通过Notch锁定命运,11.5,1.425,1.0542,VU/AC,"{'lag2_expr_rate': 0.763, 'notch_threshold': 6.659, 'fork_rate': 0.01, 'fork_accuracy': 2.785, 'timer_speed': 0.01, 'memory_stability': 0.439}",True
+2_lf_lin12_compensation,lin-12功能丧失的演化补偿,11.8,1.4285,1.0609,VU/AC,"{'notch_threshold': 10.0, 'fork_rate': 0.381, 'fork_accuracy': 0.012, 'timer_speed': 0.01, 'memory_stability': 0.024}",True
+3_lf_lag2_compensation,lag-2功能丧失的演化补偿,11.1,1.4374,1.0013,AC/VU,"{'lag2_expr_rate': 1.105, 'notch_threshold': 0.056, 'fork_accuracy': 0.367, 'timer_speed': 4.893, 'memory_stability': 0.098}",True
+4_gf_lin12_escape,lin-12过度活跃时的演化逃逸,15.0,1.4144,1.0511,VU/AC,"{'lag2_expr_rate': 0.766, 'notch_threshold': 0.989, 'fork_rate': 0.143, 'fork_accuracy': 3.107, 'timer_speed': 1.354, 'memory_stability': 1.02}",False
+5_env_noise_resistance,环境噪声(温度波动)鲁棒性,22.5,1.22,1.0352,VU/AC,"{'notch_threshold': 5.685, 'fork_rate': 2.295, 'fork_accuracy': 0.113, 'timer_speed': 0.059, 'memory_stability': 0.05}",True
+6_symmetric_self,两个相同细胞能否自我不对称,14.1,1.4385,1.1415,VU/AC,"{'lin12_expr_rate': 1.106, 'notch_threshold': 0.07, 'fork_rate': 2.838, 'fork_accuracy': 2.783, 'memory_stability': 0.071}",True
+7_speed_vs_reliability,快速决定 vs 可靠决定,14.0,2.0,1.2063,VU/AC,"{'lin12_expr_rate': 1.124, 'notch_sensitivity': 1.276, 'notch_threshold': 0.366, 'fork_rate': 3.245, 'fork_accuracy': 8.859, 'timer_speed': 0.071, 'memory_stability': 0.1}",False
+8_memory_persistence,命运决定后的记忆持久性,11.1,1.4434,1.1224,VU/AC,"{'notch_threshold': 0.078, 'fork_rate': 0.01, 'fork_accuracy': 0.222, 'timer_speed': 8.313, 'memory_stability': 0.102}",False
+9_double_knockout,双重击打: lin-12+lag-2同时丧失,11.9,1.4304,1.0553,AC/VU,"{'lin12_expr_rate': 0.89, 'notch_threshold': 0.237, 'fork_rate': 10.0, 'fork_accuracy': 0.374, 'timer_speed': 0.331, 'memory_stability': 0.739}",False

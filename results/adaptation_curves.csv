@@ -1,0 +1,461 @@
+direction,label,gen,best,avg,worst,std
+D1_double_ko,D1 double ko,0,0.0,0.0,0.0,0.0
+D1_double_ko,D1 double ko,5,0.0,0.0,0.0,0.0
+D1_double_ko,D1 double ko,10,0.0,0.0,0.0,0.0
+D1_double_ko,D1 double ko,15,0.0,0.0,0.0,0.0
+D1_double_ko,D1 double ko,20,1.08,0.5117,0.0,0.3986
+D1_double_ko,D1 double ko,25,1.0455,0.3826,0.0,0.4339
+D1_double_ko,D1 double ko,30,1.2892,0.7286,0.0,0.4095
+D1_double_ko,D1 double ko,35,1.3063,0.999,0.0,0.2493
+D1_double_ko,D1 double ko,40,1.3284,1.0726,0.7694,0.1635
+D1_double_ko,D1 double ko,45,1.3915,1.0737,0.7705,0.1881
+D1_double_ko,D1 double ko,50,1.3669,1.0759,0.7897,0.1768
+D1_double_ko,D1 double ko,55,1.3819,1.0548,0.0,0.2483
+D1_double_ko,D1 double ko,60,1.3936,1.1148,0.7627,0.2152
+D1_double_ko,D1 double ko,65,1.4021,1.0456,0.5701,0.2045
+D1_double_ko,D1 double ko,70,1.3926,1.0801,0.0,0.2299
+D1_double_ko,D1 double ko,75,1.3582,1.0873,0.7641,0.2083
+D1_double_ko,D1 double ko,80,1.3628,1.0773,0.6796,0.2067
+D1_double_ko,D1 double ko,85,1.3643,1.0155,0.0,0.2411
+D1_double_ko,D1 double ko,90,1.3577,1.0755,0.7188,0.1941
+D1_double_ko,D1 double ko,95,1.361,1.0378,0.6727,0.2075
+D1_double_ko,D1 double ko,100,1.3623,1.0661,0.7991,0.1831
+D1_double_ko,D1 double ko,105,1.3593,1.0365,0.0,0.2534
+D1_double_ko,D1 double ko,110,1.3876,1.0114,0.0,0.291
+D1_double_ko,D1 double ko,115,1.358,1.0376,0.0,0.2657
+D1_double_ko,D1 double ko,120,1.3604,1.0755,0.0,0.2743
+D1_double_ko,D1 double ko,125,1.362,1.0988,0.7037,0.1931
+D1_double_ko,D1 double ko,130,1.3585,1.0641,0.6987,0.2054
+D1_double_ko,D1 double ko,135,1.3711,1.1293,0.7626,0.184
+D1_double_ko,D1 double ko,140,1.3711,1.0709,0.0,0.2381
+D1_double_ko,D1 double ko,145,1.3741,1.061,0.6189,0.1711
+D1_double_ko,D1 double ko,150,1.3711,1.0932,0.811,0.1725
+D1_double_ko,D1 double ko,155,1.3702,1.1096,0.8393,0.1752
+D1_double_ko,D1 double ko,160,1.3783,1.0933,0.5637,0.1946
+D1_double_ko,D1 double ko,165,1.386,1.1355,0.8417,0.1743
+D1_double_ko,D1 double ko,170,1.4147,1.0904,0.5694,0.2167
+D1_double_ko,D1 double ko,175,1.4232,1.1295,0.0059,0.236
+D1_double_ko,D1 double ko,180,1.426,1.1143,0.854,0.2135
+D1_double_ko,D1 double ko,185,1.4273,1.1105,0.8548,0.1886
+D1_double_ko,D1 double ko,190,1.4218,1.0641,0.7485,0.1745
+D1_double_ko,D1 double ko,195,1.4249,1.1398,0.8551,0.181
+D1_double_ko,D1 double ko,200,1.4326,1.018,0.0,0.3666
+D1_double_ko,D1 double ko,205,1.423,1.0844,0.7984,0.2025
+D1_double_ko,D1 double ko,210,1.427,1.0943,0.7453,0.1846
+D1_double_ko,D1 double ko,215,1.4273,1.0775,0.7319,0.1902
+D1_double_ko,D1 double ko,220,1.4265,1.0582,0.6607,0.1841
+D1_double_ko,D1 double ko,225,1.4327,1.0984,0.7807,0.1905
+D1_double_ko,D1 double ko,230,1.4272,1.0802,0.0,0.2657
+D1_double_ko,D1 double ko,235,1.4001,1.126,0.7784,0.2062
+D1_double_ko,D1 double ko,240,1.4152,1.0986,0.6982,0.2209
+D1_double_ko,D1 double ko,245,1.4398,1.012,0.6364,0.1818
+D1_double_ko,D1 double ko,250,1.4374,1.0947,0.8457,0.2102
+D1_double_ko,D1 double ko,255,1.4313,1.1468,0.7791,0.2141
+D1_double_ko,D1 double ko,260,1.4384,1.1607,0.7062,0.2173
+D1_double_ko,D1 double ko,265,1.4391,1.129,0.4463,0.2181
+D1_double_ko,D1 double ko,270,1.4384,1.1012,0.0,0.2891
+D1_double_ko,D1 double ko,275,1.4218,1.1146,0.7814,0.1872
+D1_double_ko,D1 double ko,280,1.4293,1.0453,0.7702,0.1936
+D1_double_ko,D1 double ko,285,1.4281,1.0581,0.8352,0.1788
+D1_double_ko,D1 double ko,290,1.4101,1.0353,0.0,0.2975
+D1_double_ko,D1 double ko,295,1.422,1.123,0.7652,0.2277
+D1_double_ko,D1 double ko,300,1.4247,1.0892,0.7492,0.2185
+D1_double_ko,D1 double ko,305,1.4303,1.1322,0.3251,0.2333
+D1_double_ko,D1 double ko,310,1.4389,1.1046,0.7535,0.2064
+D1_double_ko,D1 double ko,315,1.4297,0.9954,0.0,0.2557
+D1_double_ko,D1 double ko,320,1.4386,1.1004,0.8092,0.1859
+D1_double_ko,D1 double ko,325,1.4386,1.0433,0.6977,0.184
+D1_double_ko,D1 double ko,330,1.4334,1.0347,0.0,0.2268
+D1_double_ko,D1 double ko,335,1.4374,1.0754,0.7903,0.1857
+D1_double_ko,D1 double ko,340,1.4346,1.0864,0.6585,0.1748
+D1_double_ko,D1 double ko,345,1.4169,1.1429,0.7984,0.1911
+D1_double_ko,D1 double ko,350,1.4287,1.1007,0.8373,0.1818
+D1_double_ko,D1 double ko,355,1.4256,1.0796,0.753,0.2083
+D1_double_ko,D1 double ko,360,1.4364,1.1407,0.8005,0.2145
+D1_double_ko,D1 double ko,365,1.4377,1.1195,0.8048,0.1794
+D1_double_ko,D1 double ko,370,1.444,1.1306,0.6896,0.2147
+D1_double_ko,D1 double ko,375,1.4456,1.056,0.8111,0.1679
+D1_double_ko,D1 double ko,380,1.4379,1.0529,0.7268,0.1894
+D1_double_ko,D1 double ko,385,1.4414,1.1176,0.0,0.2888
+D1_double_ko,D1 double ko,390,1.4372,1.0971,0.7537,0.1942
+D1_double_ko,D1 double ko,395,1.4031,1.0776,0.8372,0.1605
+D1_double_ko,D1 double ko,400,1.4198,1.088,0.7598,0.1969
+D1_double_ko,D1 double ko,405,1.4216,1.0958,0.8509,0.1782
+D1_double_ko,D1 double ko,410,1.4253,1.0826,0.0,0.2534
+D1_double_ko,D1 double ko,415,1.4309,1.1059,0.8686,0.1574
+D1_double_ko,D1 double ko,420,1.4412,1.1056,0.7631,0.2121
+D1_double_ko,D1 double ko,425,1.4467,1.1296,0.7784,0.1844
+D1_double_ko,D1 double ko,430,1.4324,1.0914,0.0,0.2465
+D1_double_ko,D1 double ko,435,1.4133,1.0772,0.7067,0.1522
+D1_double_ko,D1 double ko,440,1.4221,1.0976,0.7665,0.1682
+D1_double_ko,D1 double ko,445,1.4176,1.0948,0.0,0.2957
+D1_double_ko,D1 double ko,450,1.4198,1.0771,0.5876,0.233
+D1_double_ko,D1 double ko,455,1.4271,1.0497,0.7453,0.2079
+D1_double_ko,D1 double ko,460,1.4264,1.0496,0.0,0.3196
+D1_double_ko,D1 double ko,465,1.4349,1.1174,0.7199,0.2136
+D1_double_ko,D1 double ko,470,1.4238,1.1028,0.7571,0.1975
+D1_double_ko,D1 double ko,475,1.439,1.1029,0.6942,0.1811
+D1_double_ko,D1 double ko,480,1.4225,1.1211,0.7803,0.2088
+D1_double_ko,D1 double ko,485,1.4274,1.0927,0.77,0.1968
+D1_double_ko,D1 double ko,490,1.4326,1.1335,0.719,0.2059
+D1_double_ko,D1 double ko,495,1.4327,1.1524,0.0,0.2402
+D2_two_pop_coevolve,D2 two pop coevolve,0,0.9568,0.933,0.9012,0.0104
+D2_two_pop_coevolve,D2 two pop coevolve,5,1.3567,0.9937,0.7876,0.1017
+D2_two_pop_coevolve,D2 two pop coevolve,10,1.4355,1.1193,0.7601,0.1839
+D2_two_pop_coevolve,D2 two pop coevolve,15,1.4415,1.1064,0.7394,0.2121
+D2_two_pop_coevolve,D2 two pop coevolve,20,1.4438,1.1339,0.7917,0.2175
+D2_two_pop_coevolve,D2 two pop coevolve,25,1.438,1.1216,0.835,0.2222
+D2_two_pop_coevolve,D2 two pop coevolve,30,1.4407,1.1012,0.6466,0.1982
+D2_two_pop_coevolve,D2 two pop coevolve,35,1.4358,0.9884,0.572,0.1481
+D2_two_pop_coevolve,D2 two pop coevolve,40,1.4396,1.1038,0.5847,0.2253
+D2_two_pop_coevolve,D2 two pop coevolve,45,1.4333,1.0526,0.8288,0.1788
+D2_two_pop_coevolve,D2 two pop coevolve,50,1.4314,1.1176,0.7771,0.2016
+D2_two_pop_coevolve,D2 two pop coevolve,55,1.429,1.1178,0.6609,0.1878
+D2_two_pop_coevolve,D2 two pop coevolve,60,1.4387,1.1169,0.8282,0.1769
+D2_two_pop_coevolve,D2 two pop coevolve,65,1.4312,0.9955,0.0,0.2515
+D2_two_pop_coevolve,D2 two pop coevolve,70,1.4476,1.1129,0.0,0.3411
+D2_two_pop_coevolve,D2 two pop coevolve,75,1.4435,1.1232,0.0,0.2888
+D2_two_pop_coevolve,D2 two pop coevolve,80,1.4435,1.1355,0.5648,0.2171
+D2_two_pop_coevolve,D2 two pop coevolve,85,1.4367,1.1422,0.7989,0.2265
+D2_two_pop_coevolve,D2 two pop coevolve,90,1.4287,1.1513,0.7932,0.2152
+D2_two_pop_coevolve,D2 two pop coevolve,95,1.428,1.1231,0.0,0.25
+D2_two_pop_coevolve,D2 two pop coevolve,100,1.4395,1.0909,0.7954,0.1876
+D2_two_pop_coevolve,D2 two pop coevolve,105,1.4413,1.0738,0.0,0.2616
+D2_two_pop_coevolve,D2 two pop coevolve,110,1.4368,1.1121,0.507,0.2169
+D2_two_pop_coevolve,D2 two pop coevolve,115,1.4346,1.056,0.0,0.2847
+D2_two_pop_coevolve,D2 two pop coevolve,120,1.4383,1.0464,0.7863,0.192
+D2_two_pop_coevolve,D2 two pop coevolve,125,1.4239,1.0776,0.8057,0.1694
+D2_two_pop_coevolve,D2 two pop coevolve,130,1.4371,1.1035,0.7899,0.2253
+D2_two_pop_coevolve,D2 two pop coevolve,135,1.4394,1.1005,0.688,0.2201
+D2_two_pop_coevolve,D2 two pop coevolve,140,1.4304,1.1267,0.8389,0.2249
+D2_two_pop_coevolve,D2 two pop coevolve,145,1.4386,1.1366,0.7065,0.2099
+D2_two_pop_coevolve,D2 two pop coevolve,150,1.4276,1.1133,0.6499,0.2182
+D2_two_pop_coevolve,D2 two pop coevolve,155,1.4371,1.1268,0.0,0.2692
+D2_two_pop_coevolve,D2 two pop coevolve,160,1.4391,1.1508,0.8488,0.2045
+D2_two_pop_coevolve,D2 two pop coevolve,165,1.4391,1.1053,0.8616,0.206
+D2_two_pop_coevolve,D2 two pop coevolve,170,1.4418,1.1333,0.7951,0.207
+D2_two_pop_coevolve,D2 two pop coevolve,175,1.44,1.0457,0.8028,0.1762
+D2_two_pop_coevolve,D2 two pop coevolve,180,1.4433,1.1381,0.5303,0.2414
+D2_two_pop_coevolve,D2 two pop coevolve,185,1.4417,1.1088,0.4495,0.2355
+D2_two_pop_coevolve,D2 two pop coevolve,190,1.4274,1.0767,0.8078,0.182
+D2_two_pop_coevolve,D2 two pop coevolve,195,1.4396,1.0998,0.8995,0.1962
+D2_two_pop_coevolve,D2 two pop coevolve,200,1.4351,1.04,0.6173,0.196
+D2_two_pop_coevolve,D2 two pop coevolve,205,1.4351,1.0806,0.0,0.2664
+D2_two_pop_coevolve,D2 two pop coevolve,210,1.4366,1.1595,0.8324,0.1882
+D2_two_pop_coevolve,D2 two pop coevolve,215,1.4351,1.1073,0.6664,0.2032
+D2_two_pop_coevolve,D2 two pop coevolve,220,1.4302,1.0342,0.8072,0.1623
+D2_two_pop_coevolve,D2 two pop coevolve,225,1.4308,1.1134,0.5977,0.1976
+D2_two_pop_coevolve,D2 two pop coevolve,230,1.4354,1.1071,0.7297,0.227
+D2_two_pop_coevolve,D2 two pop coevolve,235,1.4415,1.0427,0.4428,0.213
+D2_two_pop_coevolve,D2 two pop coevolve,240,1.4395,1.1489,0.8544,0.2271
+D2_two_pop_coevolve,D2 two pop coevolve,245,1.4428,1.137,0.0163,0.274
+D2_two_pop_coevolve,D2 two pop coevolve,250,1.441,1.1221,0.4998,0.226
+D2_two_pop_coevolve,D2 two pop coevolve,255,1.4425,1.1032,0.8251,0.1849
+D2_two_pop_coevolve,D2 two pop coevolve,260,1.4425,1.0987,0.8278,0.2049
+D2_two_pop_coevolve,D2 two pop coevolve,265,1.4424,1.0807,0.5963,0.2155
+D2_two_pop_coevolve,D2 two pop coevolve,270,1.4407,1.1347,0.7384,0.2454
+D2_two_pop_coevolve,D2 two pop coevolve,275,1.446,1.1427,0.0,0.2376
+D2_two_pop_coevolve,D2 two pop coevolve,280,1.436,1.0085,0.0,0.2111
+D2_two_pop_coevolve,D2 two pop coevolve,285,1.4388,1.062,0.6669,0.2159
+D2_two_pop_coevolve,D2 two pop coevolve,290,1.4351,1.1063,0.0,0.2506
+D2_two_pop_coevolve,D2 two pop coevolve,295,1.4383,1.1048,0.6967,0.2169
+D2_two_pop_coevolve,D2 two pop coevolve,300,1.4286,1.0999,0.616,0.2045
+D2_two_pop_coevolve,D2 two pop coevolve,305,1.417,1.0351,0.7828,0.1874
+D2_two_pop_coevolve,D2 two pop coevolve,310,1.4311,1.0829,0.0,0.2599
+D2_two_pop_coevolve,D2 two pop coevolve,315,1.4331,1.1002,0.864,0.1953
+D2_two_pop_coevolve,D2 two pop coevolve,320,1.4324,1.1159,0.7528,0.2051
+D2_two_pop_coevolve,D2 two pop coevolve,325,1.4307,1.0795,0.0,0.2664
+D2_two_pop_coevolve,D2 two pop coevolve,330,1.4346,1.1368,0.5982,0.2436
+D2_two_pop_coevolve,D2 two pop coevolve,335,1.423,1.0927,0.731,0.2067
+D2_two_pop_coevolve,D2 two pop coevolve,340,1.444,1.1058,0.8232,0.1965
+D2_two_pop_coevolve,D2 two pop coevolve,345,1.4448,1.1324,0.7988,0.1963
+D2_two_pop_coevolve,D2 two pop coevolve,350,1.4441,1.0819,0.818,0.1684
+D2_two_pop_coevolve,D2 two pop coevolve,355,1.4441,1.1461,0.8308,0.1965
+D2_two_pop_coevolve,D2 two pop coevolve,360,1.4376,1.1202,0.8207,0.1917
+D2_two_pop_coevolve,D2 two pop coevolve,365,1.4304,1.0851,0.0,0.2565
+D2_two_pop_coevolve,D2 two pop coevolve,370,1.4393,1.1163,0.0,0.2457
+D2_two_pop_coevolve,D2 two pop coevolve,375,1.4339,1.1298,0.7897,0.1789
+D2_two_pop_coevolve,D2 two pop coevolve,380,1.4085,1.082,0.0,0.2373
+D2_two_pop_coevolve,D2 two pop coevolve,385,1.3902,1.0472,0.6975,0.1993
+D2_two_pop_coevolve,D2 two pop coevolve,390,1.396,1.1129,0.7042,0.2029
+D2_two_pop_coevolve,D2 two pop coevolve,395,1.4239,1.0742,0.7469,0.1971
+D2_two_pop_coevolve,D2 two pop coevolve,400,1.4265,1.0877,0.7201,0.2093
+D2_two_pop_coevolve,D2 two pop coevolve,405,1.4324,1.1496,0.835,0.2173
+D2_two_pop_coevolve,D2 two pop coevolve,410,1.413,1.0897,0.7195,0.2164
+D2_two_pop_coevolve,D2 two pop coevolve,415,1.4223,1.1645,0.8609,0.1821
+D2_two_pop_coevolve,D2 two pop coevolve,420,1.4149,1.044,0.7734,0.1777
+D2_two_pop_coevolve,D2 two pop coevolve,425,1.429,1.0631,0.6701,0.1776
+D2_two_pop_coevolve,D2 two pop coevolve,430,1.4378,1.1443,0.7845,0.2048
+D2_two_pop_coevolve,D2 two pop coevolve,435,1.4203,1.0735,0.3758,0.2131
+D2_two_pop_coevolve,D2 two pop coevolve,440,1.3625,1.0792,0.8281,0.1647
+D2_two_pop_coevolve,D2 two pop coevolve,445,1.4291,1.128,0.7283,0.1739
+D2_two_pop_coevolve,D2 two pop coevolve,450,1.3643,1.107,0.5747,0.1985
+D2_two_pop_coevolve,D2 two pop coevolve,455,1.3539,1.0967,0.8064,0.1742
+D2_two_pop_coevolve,D2 two pop coevolve,460,1.3869,1.1381,0.847,0.1759
+D2_two_pop_coevolve,D2 two pop coevolve,465,1.3847,1.114,0.7999,0.1751
+D2_two_pop_coevolve,D2 two pop coevolve,470,1.3917,1.0392,0.7617,0.1435
+D2_two_pop_coevolve,D2 two pop coevolve,475,1.4345,1.1018,0.8142,0.1926
+D2_two_pop_coevolve,D2 two pop coevolve,480,1.4271,1.0896,0.8051,0.2089
+D2_two_pop_coevolve,D2 two pop coevolve,485,1.4344,1.1151,0.8413,0.2052
+D2_two_pop_coevolve,D2 two pop coevolve,490,1.4282,1.0471,0.7179,0.1879
+D2_two_pop_coevolve,D2 two pop coevolve,495,1.435,1.1377,0.7093,0.1898
+D3_env_oscillation,D3 env oscillation,0,0.9519,0.9318,0.9112,0.0103
+D3_env_oscillation,D3 env oscillation,5,1.4453,1.0116,0.6163,0.1435
+D3_env_oscillation,D3 env oscillation,10,1.4293,1.0789,0.7148,0.1553
+D3_env_oscillation,D3 env oscillation,15,1.4349,1.1018,0.794,0.1843
+D3_env_oscillation,D3 env oscillation,20,1.4328,1.0901,0.785,0.1854
+D3_env_oscillation,D3 env oscillation,25,1.4365,1.1158,0.7849,0.1886
+D3_env_oscillation,D3 env oscillation,30,1.3635,1.0821,0.7158,0.1778
+D3_env_oscillation,D3 env oscillation,35,1.4395,1.0992,0.6356,0.1946
+D3_env_oscillation,D3 env oscillation,40,1.4375,1.1018,0.8389,0.1994
+D3_env_oscillation,D3 env oscillation,45,1.4316,1.1324,0.7905,0.2156
+D3_env_oscillation,D3 env oscillation,50,1.4316,1.087,0.5494,0.2216
+D3_env_oscillation,D3 env oscillation,55,1.4263,1.1235,0.7601,0.1989
+D3_env_oscillation,D3 env oscillation,60,1.412,1.0544,0.0,0.303
+D3_env_oscillation,D3 env oscillation,65,1.4155,0.9847,0.7378,0.1693
+D3_env_oscillation,D3 env oscillation,70,1.4227,1.1042,0.3549,0.2335
+D3_env_oscillation,D3 env oscillation,75,1.4086,1.0428,0.7596,0.1748
+D3_env_oscillation,D3 env oscillation,80,1.4146,1.0964,0.6771,0.2227
+D3_env_oscillation,D3 env oscillation,85,1.4061,1.0626,0.7298,0.2085
+D3_env_oscillation,D3 env oscillation,90,1.4239,1.0916,0.8079,0.1997
+D3_env_oscillation,D3 env oscillation,95,1.4196,1.0363,0.6922,0.2057
+D3_env_oscillation,D3 env oscillation,100,1.4198,1.0777,0.6978,0.2318
+D3_env_oscillation,D3 env oscillation,105,1.4284,1.0872,0.7387,0.231
+D3_env_oscillation,D3 env oscillation,110,1.4218,1.0803,0.7172,0.1989
+D3_env_oscillation,D3 env oscillation,115,1.4372,1.06,0.6176,0.1899
+D3_env_oscillation,D3 env oscillation,120,1.4271,1.0909,0.8973,0.1548
+D3_env_oscillation,D3 env oscillation,125,1.4141,1.0733,0.836,0.1692
+D3_env_oscillation,D3 env oscillation,130,1.4235,1.0955,0.7527,0.1778
+D3_env_oscillation,D3 env oscillation,135,1.4277,1.0925,0.7653,0.1768
+D3_env_oscillation,D3 env oscillation,140,1.4267,1.0143,0.6515,0.1648
+D3_env_oscillation,D3 env oscillation,145,1.4246,1.1125,0.0,0.2296
+D3_env_oscillation,D3 env oscillation,150,1.4314,1.0643,0.0,0.2561
+D3_env_oscillation,D3 env oscillation,155,1.4289,1.0685,0.7054,0.1846
+D3_env_oscillation,D3 env oscillation,160,1.4227,1.1634,0.8501,0.1711
+D3_env_oscillation,D3 env oscillation,165,1.4143,1.1093,0.6305,0.2043
+D3_env_oscillation,D3 env oscillation,170,1.4266,1.0676,0.7633,0.177
+D3_env_oscillation,D3 env oscillation,175,1.4379,1.1301,0.8538,0.1982
+D3_env_oscillation,D3 env oscillation,180,1.4316,1.1152,0.7137,0.1958
+D3_env_oscillation,D3 env oscillation,185,1.4334,1.0761,0.7668,0.2073
+D3_env_oscillation,D3 env oscillation,190,1.4328,1.1305,0.7678,0.199
+D3_env_oscillation,D3 env oscillation,195,1.4383,1.1186,0.6639,0.216
+D3_env_oscillation,D3 env oscillation,200,1.427,1.0755,0.7059,0.2225
+D3_env_oscillation,D3 env oscillation,205,1.4257,1.022,0.7883,0.1778
+D3_env_oscillation,D3 env oscillation,210,1.4337,1.1138,0.8649,0.2062
+D3_env_oscillation,D3 env oscillation,215,1.429,1.077,0.8374,0.1982
+D3_env_oscillation,D3 env oscillation,220,1.3789,1.0807,0.6795,0.1792
+D3_env_oscillation,D3 env oscillation,225,1.4329,1.1209,0.0,0.2391
+D3_env_oscillation,D3 env oscillation,230,1.3924,1.1233,0.8508,0.1982
+D3_env_oscillation,D3 env oscillation,235,1.4166,1.0581,0.7585,0.1983
+D3_env_oscillation,D3 env oscillation,240,1.4178,1.1178,0.7358,0.2127
+D3_env_oscillation,D3 env oscillation,245,1.422,1.088,0.7097,0.2192
+D3_env_oscillation,D3 env oscillation,250,1.4352,1.1308,0.7532,0.2131
+D3_env_oscillation,D3 env oscillation,255,1.4234,1.1026,0.5046,0.2421
+D3_env_oscillation,D3 env oscillation,260,1.4374,1.125,0.7725,0.1942
+D3_env_oscillation,D3 env oscillation,265,1.4255,1.1366,0.8132,0.1819
+D3_env_oscillation,D3 env oscillation,270,1.4284,1.1241,0.7373,0.1982
+D3_env_oscillation,D3 env oscillation,275,1.4311,1.0618,0.806,0.1854
+D3_env_oscillation,D3 env oscillation,280,1.4345,1.0505,0.6522,0.1944
+D3_env_oscillation,D3 env oscillation,285,1.4298,1.0757,0.6713,0.19
+D3_env_oscillation,D3 env oscillation,290,1.4393,1.071,0.8375,0.1666
+D3_env_oscillation,D3 env oscillation,295,1.4395,1.0638,0.0,0.2615
+D4_noise_threshold_mutation,D4 noise threshold mutation,0,0.9535,0.9328,0.9124,0.0093
+D4_noise_threshold_mutation,D4 noise threshold mutation,5,1.2303,0.983,0.8364,0.093
+D4_noise_threshold_mutation,D4 noise threshold mutation,10,1.3608,1.0674,0.8834,0.1269
+D4_noise_threshold_mutation,D4 noise threshold mutation,15,1.3705,1.1192,0.7946,0.1877
+D4_noise_threshold_mutation,D4 noise threshold mutation,20,1.4337,1.0953,0.7685,0.1799
+D4_noise_threshold_mutation,D4 noise threshold mutation,25,1.3704,1.0894,0.8214,0.1597
+D4_noise_threshold_mutation,D4 noise threshold mutation,30,1.3718,1.148,0.7832,0.1835
+D4_noise_threshold_mutation,D4 noise threshold mutation,35,1.3718,1.0749,0.7882,0.1682
+D4_noise_threshold_mutation,D4 noise threshold mutation,40,1.3718,1.0648,0.6373,0.1734
+D4_noise_threshold_mutation,D4 noise threshold mutation,45,1.3718,1.1255,0.8317,0.1982
+D4_noise_threshold_mutation,D4 noise threshold mutation,50,1.3722,1.067,0.6677,0.1867
+D4_noise_threshold_mutation,D4 noise threshold mutation,55,1.3741,1.0835,0.8497,0.1632
+D4_noise_threshold_mutation,D4 noise threshold mutation,60,1.3722,1.0867,0.8562,0.1824
+D4_noise_threshold_mutation,D4 noise threshold mutation,65,1.373,1.0737,0.7935,0.1613
+D4_noise_threshold_mutation,D4 noise threshold mutation,70,1.3648,1.0799,0.8178,0.168
+D4_noise_threshold_mutation,D4 noise threshold mutation,75,1.3687,1.0561,0.776,0.1481
+D4_noise_threshold_mutation,D4 noise threshold mutation,80,1.3679,1.059,0.8031,0.1481
+D4_noise_threshold_mutation,D4 noise threshold mutation,85,1.3729,1.0726,0.8037,0.1554
+D4_noise_threshold_mutation,D4 noise threshold mutation,90,1.3736,1.104,0.8697,0.1909
+D4_noise_threshold_mutation,D4 noise threshold mutation,95,1.3736,1.074,0.8139,0.1719
+D4_noise_threshold_mutation,D4 noise threshold mutation,100,1.3736,1.0585,0.8022,0.1696
+D4_noise_threshold_mutation,D4 noise threshold mutation,105,1.3745,1.0737,0.6143,0.1974
+D4_noise_threshold_mutation,D4 noise threshold mutation,110,1.3706,1.062,0.7966,0.1703
+D4_noise_threshold_mutation,D4 noise threshold mutation,115,1.4442,1.0745,0.8116,0.1751
+D4_noise_threshold_mutation,D4 noise threshold mutation,120,1.4313,1.1023,0.869,0.1497
+D4_noise_threshold_mutation,D4 noise threshold mutation,125,1.4413,1.0561,0.8632,0.1616
+D4_noise_threshold_mutation,D4 noise threshold mutation,130,1.4433,1.0982,0.7953,0.1817
+D4_noise_threshold_mutation,D4 noise threshold mutation,135,1.4317,1.0606,0.7471,0.1556
+D4_noise_threshold_mutation,D4 noise threshold mutation,140,1.4196,1.0797,0.816,0.161
+D4_noise_threshold_mutation,D4 noise threshold mutation,145,1.4365,1.0627,0.7775,0.1718
+D4_noise_threshold_mutation,D4 noise threshold mutation,150,1.4253,1.1045,0.8017,0.177
+D4_noise_threshold_mutation,D4 noise threshold mutation,155,1.4259,1.1054,0.8012,0.1865
+D4_noise_threshold_mutation,D4 noise threshold mutation,160,1.4348,1.0773,0.8945,0.1568
+D4_noise_threshold_mutation,D4 noise threshold mutation,165,1.4352,1.0858,0.7737,0.1948
+D4_noise_threshold_mutation,D4 noise threshold mutation,170,1.4343,1.0995,0.8642,0.1651
+D4_noise_threshold_mutation,D4 noise threshold mutation,175,1.4356,1.1142,0.799,0.1856
+D4_noise_threshold_mutation,D4 noise threshold mutation,180,1.4356,1.0101,0.8044,0.1329
+D4_noise_threshold_mutation,D4 noise threshold mutation,185,1.4364,1.1179,0.7901,0.1887
+D4_noise_threshold_mutation,D4 noise threshold mutation,190,1.4378,1.0479,0.8125,0.1557
+D4_noise_threshold_mutation,D4 noise threshold mutation,195,1.4394,1.0772,0.0,0.2516
+D4_noise_threshold_mutation,D4 noise threshold mutation,200,1.439,1.0798,0.8538,0.194
+D4_noise_threshold_mutation,D4 noise threshold mutation,205,1.4437,1.165,0.7257,0.2232
+D4_noise_threshold_mutation,D4 noise threshold mutation,210,1.4403,1.0882,0.8584,0.1964
+D4_noise_threshold_mutation,D4 noise threshold mutation,215,1.4349,1.112,0.8576,0.1878
+D4_noise_threshold_mutation,D4 noise threshold mutation,220,1.4403,1.0984,0.9118,0.1859
+D4_noise_threshold_mutation,D4 noise threshold mutation,225,1.4403,1.1079,0.6671,0.219
+D4_noise_threshold_mutation,D4 noise threshold mutation,230,1.4455,1.2201,0.6747,0.2148
+D4_noise_threshold_mutation,D4 noise threshold mutation,235,1.4403,1.064,0.8039,0.163
+D4_noise_threshold_mutation,D4 noise threshold mutation,240,1.4435,1.1396,0.6774,0.2351
+D4_noise_threshold_mutation,D4 noise threshold mutation,245,1.4435,1.1199,0.7951,0.2166
+D4_noise_threshold_mutation,D4 noise threshold mutation,250,1.445,1.1576,0.843,0.2004
+D4_noise_threshold_mutation,D4 noise threshold mutation,255,1.4421,1.1411,0.805,0.2196
+D4_noise_threshold_mutation,D4 noise threshold mutation,260,1.4383,1.1153,0.8917,0.2026
+D4_noise_threshold_mutation,D4 noise threshold mutation,265,1.4435,1.0641,0.8716,0.1787
+D4_noise_threshold_mutation,D4 noise threshold mutation,270,1.4424,1.0817,0.8958,0.1814
+D4_noise_threshold_mutation,D4 noise threshold mutation,275,1.443,1.1384,0.0,0.3117
+D4_noise_threshold_mutation,D4 noise threshold mutation,280,1.4451,1.164,0.8047,0.2197
+D4_noise_threshold_mutation,D4 noise threshold mutation,285,1.4458,1.2027,0.8662,0.2236
+D4_noise_threshold_mutation,D4 noise threshold mutation,290,1.4458,1.1508,0.7993,0.2169
+D4_noise_threshold_mutation,D4 noise threshold mutation,295,1.4471,1.1712,0.8472,0.2277
+D4_noise_threshold_mutation,D4 noise threshold mutation,300,1.4471,1.0917,0.8688,0.1998
+D4_noise_threshold_mutation,D4 noise threshold mutation,305,1.4471,1.0915,0.8728,0.1931
+D4_noise_threshold_mutation,D4 noise threshold mutation,310,1.4471,1.1488,0.9237,0.2046
+D4_noise_threshold_mutation,D4 noise threshold mutation,315,1.4454,1.1156,0.8674,0.2101
+D4_noise_threshold_mutation,D4 noise threshold mutation,320,1.4463,1.1159,0.0,0.2619
+D4_noise_threshold_mutation,D4 noise threshold mutation,325,1.4452,1.1643,0.8018,0.1931
+D4_noise_threshold_mutation,D4 noise threshold mutation,330,1.4461,1.0946,0.8671,0.2063
+D4_noise_threshold_mutation,D4 noise threshold mutation,335,1.4461,1.0889,0.8685,0.2054
+D4_noise_threshold_mutation,D4 noise threshold mutation,340,1.4461,1.066,0.8763,0.1792
+D4_noise_threshold_mutation,D4 noise threshold mutation,345,1.4463,1.1748,0.8242,0.2338
+D4_noise_threshold_mutation,D4 noise threshold mutation,350,1.4469,1.0484,0.7951,0.2011
+D4_noise_threshold_mutation,D4 noise threshold mutation,355,1.4469,1.1644,0.8188,0.2067
+D4_noise_threshold_mutation,D4 noise threshold mutation,360,1.4469,1.1417,0.7837,0.2217
+D4_noise_threshold_mutation,D4 noise threshold mutation,365,1.4482,1.1337,0.816,0.2135
+D4_noise_threshold_mutation,D4 noise threshold mutation,370,1.4482,1.1811,0.8581,0.2197
+D4_noise_threshold_mutation,D4 noise threshold mutation,375,1.4469,1.1512,0.8667,0.2204
+D4_noise_threshold_mutation,D4 noise threshold mutation,380,1.4372,1.0891,0.8359,0.2089
+D4_noise_threshold_mutation,D4 noise threshold mutation,385,1.4469,1.1481,0.8529,0.2274
+D4_noise_threshold_mutation,D4 noise threshold mutation,390,1.4469,1.1346,0.0,0.2832
+D4_noise_threshold_mutation,D4 noise threshold mutation,395,1.4465,1.1359,0.8427,0.2124
+D4_noise_threshold_mutation,D4 noise threshold mutation,400,1.4476,1.0642,0.656,0.1925
+D4_noise_threshold_mutation,D4 noise threshold mutation,405,1.4469,1.0791,0.6589,0.2159
+D4_noise_threshold_mutation,D4 noise threshold mutation,410,1.4487,1.1293,0.8688,0.2076
+D4_noise_threshold_mutation,D4 noise threshold mutation,415,1.4469,1.1371,0.8688,0.1799
+D4_noise_threshold_mutation,D4 noise threshold mutation,420,1.4306,1.0782,0.0,0.2387
+D4_noise_threshold_mutation,D4 noise threshold mutation,425,1.3771,1.0682,0.8771,0.1492
+D4_noise_threshold_mutation,D4 noise threshold mutation,430,1.4483,1.131,0.8377,0.1896
+D4_noise_threshold_mutation,D4 noise threshold mutation,435,1.3767,1.0499,0.7716,0.1511
+D4_noise_threshold_mutation,D4 noise threshold mutation,440,1.3741,1.0741,0.8397,0.161
+D4_noise_threshold_mutation,D4 noise threshold mutation,445,1.3755,1.0599,0.8219,0.169
+D4_noise_threshold_mutation,D4 noise threshold mutation,450,1.4322,1.0796,0.0,0.2492
+D4_noise_threshold_mutation,D4 noise threshold mutation,455,1.4422,1.0416,0.0,0.2705
+D4_noise_threshold_mutation,D4 noise threshold mutation,460,1.4453,1.1839,0.6854,0.2184
+D4_noise_threshold_mutation,D4 noise threshold mutation,465,1.4451,1.1463,0.8677,0.2195
+D4_noise_threshold_mutation,D4 noise threshold mutation,470,1.4451,1.1115,0.7591,0.233
+D4_noise_threshold_mutation,D4 noise threshold mutation,475,1.4451,1.1711,0.87,0.2133
+D4_noise_threshold_mutation,D4 noise threshold mutation,480,1.4451,1.1333,0.8125,0.2316
+D4_noise_threshold_mutation,D4 noise threshold mutation,485,1.4482,1.09,0.8702,0.2224
+D4_noise_threshold_mutation,D4 noise threshold mutation,490,1.4482,1.1021,0.8702,0.1919
+D4_noise_threshold_mutation,D4 noise threshold mutation,495,1.4482,1.0932,0.6518,0.223
+D5_three_cell_competition,D5 three cell competition,0,0.9519,0.9346,0.9138,0.0095
+D5_three_cell_competition,D5 three cell competition,5,1.3691,1.0357,0.7313,0.1386
+D5_three_cell_competition,D5 three cell competition,10,1.3737,1.0268,0.7882,0.143
+D5_three_cell_competition,D5 three cell competition,15,1.4466,1.0887,0.8458,0.1864
+D5_three_cell_competition,D5 three cell competition,20,1.4392,1.0513,0.0,0.2533
+D5_three_cell_competition,D5 three cell competition,25,1.4362,1.0932,0.6057,0.221
+D5_three_cell_competition,D5 three cell competition,30,1.4399,1.1253,0.0,0.2799
+D5_three_cell_competition,D5 three cell competition,35,1.4327,1.0723,0.8361,0.199
+D5_three_cell_competition,D5 three cell competition,40,1.4304,1.0908,0.646,0.2076
+D5_three_cell_competition,D5 three cell competition,45,1.4312,1.1439,0.6901,0.2
+D5_three_cell_competition,D5 three cell competition,50,1.4217,1.109,0.8026,0.2144
+D5_three_cell_competition,D5 three cell competition,55,1.4234,1.0897,0.7591,0.1888
+D5_three_cell_competition,D5 three cell competition,60,1.4213,1.1156,0.7304,0.2008
+D5_three_cell_competition,D5 three cell competition,65,1.4323,1.1725,0.8306,0.1825
+D5_three_cell_competition,D5 three cell competition,70,1.4236,1.0695,0.8696,0.1547
+D5_three_cell_competition,D5 three cell competition,75,1.4319,1.1341,0.8149,0.2219
+D5_three_cell_competition,D5 three cell competition,80,1.4255,1.1546,0.7883,0.1901
+D5_three_cell_competition,D5 three cell competition,85,1.4373,1.1087,0.7618,0.1976
+D5_three_cell_competition,D5 three cell competition,90,1.4449,1.0887,0.4904,0.2295
+D5_three_cell_competition,D5 three cell competition,95,1.4439,1.0926,0.7517,0.203
+D5_three_cell_competition,D5 three cell competition,100,1.4233,1.1636,0.8989,0.1722
+D5_three_cell_competition,D5 three cell competition,105,1.4349,1.0521,0.7464,0.2005
+D5_three_cell_competition,D5 three cell competition,110,1.4354,1.0715,0.6423,0.213
+D5_three_cell_competition,D5 three cell competition,115,1.4325,1.1017,0.4641,0.2163
+D5_three_cell_competition,D5 three cell competition,120,1.4306,1.1068,0.7608,0.2006
+D5_three_cell_competition,D5 three cell competition,125,1.4386,1.0384,0.5847,0.1623
+D5_three_cell_competition,D5 three cell competition,130,1.4426,1.0854,0.8094,0.1825
+D5_three_cell_competition,D5 three cell competition,135,1.4376,1.126,0.6825,0.2101
+D5_three_cell_competition,D5 three cell competition,140,1.4317,1.1036,0.0,0.3024
+D5_three_cell_competition,D5 three cell competition,145,1.434,1.0526,0.0,0.2947
+D5_three_cell_competition,D5 three cell competition,150,1.4335,1.0334,0.0,0.3193
+D5_three_cell_competition,D5 three cell competition,155,1.4286,1.1689,0.7927,0.2018
+D5_three_cell_competition,D5 three cell competition,160,1.4286,1.1286,0.7703,0.2071
+D5_three_cell_competition,D5 three cell competition,165,1.431,1.0266,0.0,0.2831
+D5_three_cell_competition,D5 three cell competition,170,1.4284,1.1309,0.8418,0.1944
+D5_three_cell_competition,D5 three cell competition,175,1.4288,1.1284,0.0,0.2547
+D5_three_cell_competition,D5 three cell competition,180,1.4193,1.1426,0.8468,0.2022
+D5_three_cell_competition,D5 three cell competition,185,1.4218,1.0901,0.0,0.2636
+D5_three_cell_competition,D5 three cell competition,190,1.436,1.1261,0.0,0.2701
+D5_three_cell_competition,D5 three cell competition,195,1.4329,1.0869,0.7754,0.2188
+D5_three_cell_competition,D5 three cell competition,200,1.4342,1.1217,0.7115,0.2288
+D5_three_cell_competition,D5 three cell competition,205,1.4322,1.0981,0.7613,0.1956
+D5_three_cell_competition,D5 three cell competition,210,1.4224,1.1152,0.9079,0.1818
+D5_three_cell_competition,D5 three cell competition,215,1.4231,1.0875,0.7247,0.2105
+D5_three_cell_competition,D5 three cell competition,220,1.4318,1.1063,0.6471,0.2134
+D5_three_cell_competition,D5 three cell competition,225,1.4309,1.0663,0.2595,0.2281
+D5_three_cell_competition,D5 three cell competition,230,1.4259,1.0444,0.4992,0.223
+D5_three_cell_competition,D5 three cell competition,235,1.4341,1.0856,0.0,0.2465
+D5_three_cell_competition,D5 three cell competition,240,1.436,1.1126,0.6147,0.2076
+D5_three_cell_competition,D5 three cell competition,245,1.4312,1.1342,0.794,0.2002
+D5_three_cell_competition,D5 three cell competition,250,1.4296,1.1231,0.7877,0.1954
+D5_three_cell_competition,D5 three cell competition,255,1.4221,1.1193,0.7555,0.2117
+D5_three_cell_competition,D5 three cell competition,260,1.4078,1.0982,0.8564,0.1659
+D5_three_cell_competition,D5 three cell competition,265,1.4124,1.0711,0.7912,0.1864
+D5_three_cell_competition,D5 three cell competition,270,1.4196,1.0826,0.0,0.2849
+D5_three_cell_competition,D5 three cell competition,275,1.42,1.1022,0.8352,0.2002
+D5_three_cell_competition,D5 three cell competition,280,1.4172,1.089,0.7633,0.1938
+D5_three_cell_competition,D5 three cell competition,285,1.4279,1.0606,0.0,0.2429
+D5_three_cell_competition,D5 three cell competition,290,1.4363,1.152,0.8347,0.2355
+D5_three_cell_competition,D5 three cell competition,295,1.4341,1.1854,0.6144,0.2156
+D5_three_cell_competition,D5 three cell competition,300,1.4385,1.1437,0.4944,0.2132
+D5_three_cell_competition,D5 three cell competition,305,1.4426,1.1287,0.7398,0.2215
+D5_three_cell_competition,D5 three cell competition,310,1.4344,1.0794,0.0,0.2518
+D5_three_cell_competition,D5 three cell competition,315,1.4248,1.0899,0.5572,0.2153
+D5_three_cell_competition,D5 three cell competition,320,1.4279,1.1367,0.7883,0.2287
+D5_three_cell_competition,D5 three cell competition,325,1.4454,1.0836,0.0,0.2964
+D5_three_cell_competition,D5 three cell competition,330,1.4279,1.0903,0.0,0.2588
+D5_three_cell_competition,D5 three cell competition,335,1.433,1.0371,0.6276,0.1894
+D5_three_cell_competition,D5 three cell competition,340,1.43,1.0903,0.7984,0.1963
+D5_three_cell_competition,D5 three cell competition,345,1.4344,1.0361,0.6635,0.1768
+D5_three_cell_competition,D5 three cell competition,350,1.4282,1.0925,0.7494,0.2028
+D5_three_cell_competition,D5 three cell competition,355,1.4375,1.1579,0.7984,0.212
+D5_three_cell_competition,D5 three cell competition,360,1.4375,1.0673,0.7566,0.2038
+D5_three_cell_competition,D5 three cell competition,365,1.4372,1.0612,0.497,0.2356
+D5_three_cell_competition,D5 three cell competition,370,1.4346,1.1152,0.8331,0.2157
+D5_three_cell_competition,D5 three cell competition,375,1.4361,1.0921,0.7651,0.2212
+D5_three_cell_competition,D5 three cell competition,380,1.4392,1.1228,0.0,0.2757
+D5_three_cell_competition,D5 three cell competition,385,1.4313,1.1269,0.7065,0.2037
+D5_three_cell_competition,D5 three cell competition,390,1.4313,1.1318,0.8219,0.2044
+D5_three_cell_competition,D5 three cell competition,395,1.4334,1.1366,0.6295,0.2151
+D5_three_cell_competition,D5 three cell competition,400,1.3627,1.0371,0.8467,0.1515
+D5_three_cell_competition,D5 three cell competition,405,1.4394,1.0726,0.5596,0.2091
+D5_three_cell_competition,D5 three cell competition,410,1.4329,1.0805,0.655,0.2079
+D5_three_cell_competition,D5 three cell competition,415,1.4396,1.1246,0.7341,0.1863
+D5_three_cell_competition,D5 three cell competition,420,1.4282,1.1305,0.6944,0.2258
+D5_three_cell_competition,D5 three cell competition,425,1.4274,1.1317,0.7789,0.1908
+D5_three_cell_competition,D5 three cell competition,430,1.4182,1.085,0.7859,0.1923
+D5_three_cell_competition,D5 three cell competition,435,1.4232,1.1071,0.7307,0.1941
+D5_three_cell_competition,D5 three cell competition,440,1.4196,1.0092,0.6395,0.1886
+D5_three_cell_competition,D5 three cell competition,445,1.4366,1.0662,0.6019,0.2222
+D5_three_cell_competition,D5 three cell competition,450,1.436,1.1246,0.0,0.2743
+D5_three_cell_competition,D5 three cell competition,455,1.431,1.1185,0.7077,0.2261
+D5_three_cell_competition,D5 three cell competition,460,1.4344,1.0844,0.865,0.2085
+D5_three_cell_competition,D5 three cell competition,465,1.4312,1.1008,0.6608,0.1995
+D5_three_cell_competition,D5 three cell competition,470,1.4368,1.0861,0.8459,0.1949
+D5_three_cell_competition,D5 three cell competition,475,1.4435,1.1106,0.7127,0.1993
+D5_three_cell_competition,D5 three cell competition,480,1.425,1.0823,0.7649,0.2141
+D5_three_cell_competition,D5 three cell competition,485,1.4419,1.0442,0.0,0.2944
+D5_three_cell_competition,D5 three cell competition,490,1.4446,1.1153,0.0,0.2517
+D5_three_cell_competition,D5 three cell competition,495,1.4205,1.0581,0.0,0.2902

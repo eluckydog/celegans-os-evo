@@ -1,0 +1,9 @@
+{
+  "version": "0.4",
+  "generations": 50,
+  "pop_size": 30,
+  "time_s": 2422.3,
+  "final_best": 0.5353593819111115,
+  "final_avg": 0.49918087912964904,
+  "best_params": {}
+}

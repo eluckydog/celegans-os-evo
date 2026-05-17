@@ -1,0 +1,24 @@
+{
+  "version": "0.4b",
+  "pop_size": 50,
+  "generations": 100,
+  "time_s": 52.5,
+  "final_best": 6.505134075963339,
+  "final_avg": 6.316271646692541,
+  "best_params": {
+    "lin12_expr": -0.14,
+    "notch_thresh": 0.157,
+    "notch_decay": 0.1,
+    "dsl_basal": -0.108,
+    "mother_size": -0.712,
+    "timer_speed": 1.895,
+    "timer_precis": 0.192,
+    "ach_sens": 0.204,
+    "gaba_sens": 0.347,
+    "glu_sens": 0.942,
+    "chrom_noise": -0.192,
+    "heritability": 2.527,
+    "egl1_sens": 9.5,
+    "cell_survive": 9.2
+  }
+}

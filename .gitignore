@@ -1,0 +1,16 @@
+# 排除checkpoint大文件
+checkpoints/
+checkpoints_v04/
+__pycache__/
+*.pyc
+
+# 保留CSV但排除megabyte级别的checkpoint JSON
+results/trajectory_*.json
+results_v04/checkpoint_*.json
+
+# 可视化HTML产物 (可重新生成)
+*.html
+
+# 系统文件
+.DS_Store
+Thumbs.db
